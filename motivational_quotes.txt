@@ -1,0 +1,183 @@
+12# "Hello World, this is a test quote" - Shawn
+4# "We talk on principle, but act on motivation." – Walter Savage Landor
+8# "The secret of getting ahead is getting started." – Mark Twain
+5# "The starting point of all achievement is desire." – Napoleon Hill
+5# "Winners never quit, and quitters never win." – Vince Lombardi
+9# "When the going gets tough, the tough get going." – Joe Kennedy
+5# "The best way to predict the future is to create it." – Abraham Lincoln
+5# "Always make a total effort, even when the odds are against you." – Arnold Palmer
+5# "The harder the battle, the sweeter the victory." – Les Brown
+6# "Don’t be afraid to give up the good to go for the great." – John D. Rockefeller
+9# "Don’t let the fear of losing be greater than the excitement of winning." – Robert Kiyosaki
+10#"The question isn’t who is going to let me; it’s who is going to stop me." – Ayn Rand
+6#"It is better to fail in originality than to succeed in imitation." – Herman Melville
+4#"Don’t think, just do." – Horace
+5#"Start where you are. Use what you have. Do what you can." – Arthur Ashe
+11#"Your present circumstances don’t determine where you can go; they merely determine where you start." – Nido Qubein
+4#"You must expect great things of yourself before you can do them." – Michael Jordan
+8#"Do what you have to do until you can do what you want to do." – Oprah Winfrey
+9#"You can never cross the ocean until you have the courage to lose sight of the shore." – Christopher Columbus
+4#"One way to keep momentum going is to have constantly greater goals." – Michael Korda
+4#"You don’t have to see the whole staircase, just take the first step." – Martin Luther King Jr.
+3#"We are what we repeatedly do. Excellence, then, is not an act, but a habit." – Aristotle
+11#"God always strives together with those who strive." – Aeschylus
+4#"Change your thoughts and you change your world." – Norman Vincent Peale
+4#"It’s hard to beat a person who never gives up." – Babe Ruth
+4#"Enthusiasm moves the world." – Arthur Balfour
+7#"The only person you should try to be better than, is the person you were yesterday." – Matty Mullens
+9#"Never give up, for that is just the place and time that the tide will turn." – Harriet Beecher Stow
+3#"The difference between a stumbling block and a stepping stone is how high you raise your foot." – Benny Lewis
+8#"Study while others are sleeping; work while others are loafing; prepare while others are playing; and dream while others are wishing." – William Arthur Ward
+10#"The difference between the impossible and the possible lies in a person’s determination." – Tommy Lasorda
+4#"More powerful than the will to win is the courage to begin." – Orrin Woodward
+5#"Don’t be pushed by your problems; be led by your dreams." – Ralph Waldo Emerson
+9#"You don’t drown by falling in water; you drown by staying there." – Robert Collier
+9#"If you’re going through hell, keep going." – Winston Churchill
+9#"Better to do something imperfectly than to do nothing flawlessly." – Robert Schuller
+4#"Believe you can and you’re halfway there." – Teddy Roosevelt
+6#"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time." – Thomas Edison
+6#"Fortune sides with him who dares." – Virgil
+8#"If you want something you’ve never had, you must be willing to do something you’ve never done." – Thomas Jefferson
+5#"Nobody can go back and start a new beginning, but anyone can start today and make a new ending." – Maria Robinson
+4#"Nothing will work unless you do." – Maya Angelou
+5#"The more I want to get something done the less I call it work." – Richard Bach
+6#"The work you do when you procrastinate is probably the work you should be doing for the rest of your life." – Jessica Hische
+5#"Focus on being productive instead of busy." – Tim Ferriss
+6#"The beginning is the most important part of the work." – Plato
+11#"An employee’s motivation is a direct result of the sum of interactions with his or her manager." – Bob Nelson
+4#"More is lost by indecision than wrong decision." – Marcus Tullius Cicero
+9#"If you don’t value your time, neither will others. Stop giving away your time and talents- start charging for it." – Kim Garst
+3#"Things work out best for those who make the best of how things work out." – John Wooden
+7#"There will be obstacles. There will be doubters. There will be mistakes. But with hard work, there are no limits." – Michael Phelps
+10#"Build your own dreams, or someone else will hire you to build theirs." – Farrah Gray
+6#"If you are working on something that you really care about, you don’t have to be pushed. The vision pulls you." – Steve Jobs
+10#"To be successful you must accept all challenges that come your way. You can’t just accept the ones you like." – Mike Gafka
+11#"If you want to achieve excellence, you can get there today. As of this second, quit doing less-than-excellent work." – Thomas J. Watson
+5#"The only place where success comes before work is in the dictionary." – Vidal Sassoon
+5#"We aim above the mark to hit the mark." – Ralph Waldo Emerson
+4#"Successful and unsuccessful people do not vary greatly in their abilities. They vary in their desires to reach their potential." – John C. Maxwell
+11#"When someone tells me ‘no,’ it doesn’t mean I can’t do it, it simply means I can’t do it with them." – Karen E. Quinones Miller
+3#"Strive not to be a success, but rather to be of value." – Albert Einstein
+5#"Ideation without execution is delusion." – Robin Sharma
+10#"The individual who says it is not possible should get out of the way of those doing it." – Tricia Cunningham
+3#"You’ve got to get up every morning with determination if you’re going to go to bed with satisfaction." – George Lorimer
+8#"I find that the harder I work, the more luck I seem to have." – Thomas Jefferson
+6#"Do not wait to strike till the iron is hot; but make it hot by striking." – William Butler Yeats
+6#"Focus on the journey, not the destination. Joy is found not in finishing an activity but in doing it." – Greg Anderson
+3#"The secret of joy in work is contained in one word – excellence. To know how to do something well is to enjoy it." – Pearl S. Buck
+5#"Much of the stress that people feel doesn’t come from having too much to do. It comes from not finishing what they’ve started." – David Allen
+4#"Don’t let what you cannot do interfere with what you can do." – John Wooden
+9#"The wise does at once what the fool does at last." – Balthasar Gracian
+5#"To know and not to do, is not to know." – Johann Wolfgang von Goethe
+3#"Zeal without knowledge is fire without light." – Thomas Huxley
+3#"Perfection is boring. Getting better is where all the fun is." – Dragos Roua
+5#"Our greatest fear should not be of failure but of succeeding at things in life that don’t really matter." – Francis Chan
+4#"You will never win if you never begin." – Helen Rowland
+10#"The most common way people give up their power is by thinking they don’t have any." – Alice Walker
+6#"It’s not what you look at that matters, it’s what you see." – Henry David Thoreau
+3#"Somewhere, something incredible is waiting to be known." – Carl Sagan
+3#"Experience is a hard teacher because she gives the test first, the lesson afterwards." – Vernon Sanders Law
+4#"Keep your eyes on the stars, and your feet on the ground." – Theodore Roosevelt
+5#"I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do." – Leonardo da Vinci
+9#"There are two kinds of people in this world; those who want to get things done, and those who don’t want to make mistakes." – John C. Maxwell
+8#"If you are not willing to risk the usual you will have to settle for the ordinary." – Jim Rohn
+10#"Live out of your imagination, not your history." – Stephen Covey
+9#"If the decisions you make about where you invest your blood, sweat, and tears are not consistent with the person you aspire to be, you’ll never become that person." – Clayton M. Christensen
+6#"A person who never made a mistake never tried anything new." – Albert Einstein
+11#"Always remember that you are absolutely unique; just like everyone else." – Margaret Mead
+4#"Step by step and the thing is done." – Charles Atlas
+9#"Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover." – Mark Twain
+7#"The will to succeed is important, but what’s more important is the will to prepare." – Bobby Knight
+4#"Obstacles don’t have to stop you. If you run into a wall, don’t turn around and give up." – Michael Jordan
+11#"We can’t help everyone, but everyone can help someone." – Ronald Reagan
+10#"There are two types of people who will tell you that you cannot make a difference in this world: those who are afraid to try and those who are afraid you will succeed." – Ray Goforth
+3#"We become what we think about most of the time, and that’s the strangest secret." – Earl Nightingale
+4#"To accomplish great things, we must not only act, but also dream, not only plan, but also believe." – Anatole France
+7#"Do what you can with all you have, wherever you are." – Theodore Roosevelt
+7#"We may encounter many defeats but we must not be defeated." – Maya Angelou
+5#"Great things are not done by impulse, but by a series of small things brought together." – Vincent van Gogh
+5#"Little by little, one travels far." – J.R.R. Tolkien
+3#"Quality means doing it right when no one is looking." – Henry Ford
+4#"The journey of a thousand miles begins with one step." – Lao Tzu
+8#"Great things never came from comfort zones." – Neil Strauss
+10#"The future belongs to those who believe in the beauty of their dreams." – Eleanor Roosevelt
+5#"You are never too old to set another goal or to dream a new dream." – C.S. Lewis
+4#"Dream big and dare to fail." – Norman Vaughan
+7#"Success usually comes to those who are too busy to be looking for it." – Henry David Thoreau
+4#"What lies behind us and what lies before us are tiny matters compared to what lies within us." – Ralph Waldo Emerson
+7#"Don’t watch the clock; do what it does. Keep going." – Sam Levenson
+5#"Success is not final, failure is not fatal: it is the courage to continue that counts." – Winston Churchill
+8#"Don’t be discouraged. It’s often the last key in the bunch that opens the lock." – Unknown
+10#"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers, you cannot be successful or happy." – Norman Vincent Peale
+9#"The only limit to our realization of tomorrow will be our doubts of today." – Franklin D. Roosevelt
+4#"It’s not whether you get knocked down, it’s whether you get up." – Vince Lombardi
+6#"The way to get started is to quit talking and begin doing." – Walt Disney
+9#"Act as if what you do makes a difference. It does." – William James
+6#"With the new day comes new strength and new thoughts." – Eleanor Roosevelt
+11#"What you get by achieving your goals is not as important as what you become by achieving your goals." – Zig Ziglar
+4#"It always seems impossible until it’s done." – Nelson Mandela
+9#"Don’t wait. The time will never be just right." – Napoleon Hill
+7#"You don’t have to be great to start, but you have to start to be great." – Zig Ziglar
+10#"Failure will never overtake me if my determination to succeed is strong enough." – Og Mandino
+4#"The only way to do great work is to love what you do." – Steve Jobs
+5#"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence." – Helen Keller
+11#"The only person you are destined to become is the person you decide to be." – Ralph Waldo Emerson
+4#"The only place where your dream becomes impossible is in your own thinking." – Robert H. Schuller
+4#"Success is walking from failure to failure with no loss of enthusiasm." – Winston Churchill
+4#"Keep your face always toward the sunshine—and shadows will fall behind you." – Walt Whitman
+5#"Don’t limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve." – Mary Kay Ash
+4#"Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful." – Albert Schweitzer
+8#"Go confidently in the direction of your dreams. Live the life you have imagined." – Henry David Thoreau
+6#"Don’t be pushed around by the fears in your mind. Be led by the dreams in your heart." – Roy T. Bennett
+10#"The best way to predict the future is to invent it." – Alan Kay
+7#"Motivation is what gets you started. Habit is what keeps you going." – Jim Ryun
+7#"Success is the sum of small efforts, repeated day in and day out." – Robert Collier
+4#"Believe you can and you’re halfway there." – Theodore Roosevelt
+5#"Setting goals is the first step in turning the invisible into the visible." – Tony Robbins
+4#"Success is how high you bounce when you hit bottom." – George S. Patton
+4#"The more you praise and celebrate your life, the more there is in life to celebrate." – Oprah Winfrey
+4#"Success is not in what you have, but who you are." – Bo Bennett
+9#"You can’t cross the sea merely by standing and staring at the water." – Rabindranath Tagore
+4#"Success is a state of mind. If you want success, start thinking of yourself as a success." – Joyce Brothers
+9#"Your time is limited, don’t waste it living someone else’s life." – Steve Jobs
+4#"To succeed in life, you need two things: ignorance and confidence." – Mark Twain
+9#"You miss 100% of the shots you don’t take." – Wayne Gretzky
+4#"The successful warrior is the average man, with laser-like focus." – Bruce Lee
+9#"Do one thing every day that scares you." – Eleanor Roosevelt
+10#"Success means doing the best we can with what we have. Success is the doing, not the getting; in the trying, not the triumph. Success is a personal standard, reaching for the highest that is in us, becoming all that we can be." – Zig Ziglar
+5#"Success is the progressive realization of a worthy goal or ideal." – Earl Nightingale
+10#"Start where you are. Use what you have. Do what you can." – Arthur Ashe
+9#"Don’t count the days, make the days count." – Muhammad Ali
+8#"Success is not how high you have climbed, but how you make a positive difference to the world." – Roy T. Bennett
+4#"Don't let what you cannot do interfere with what you can do." – John Wooden
+10#"Do not wait to strike till the iron is hot; but make it hot by striking." – William Butler Yeats
+4#"The secret of getting ahead is getting started." – Mark Twain
+4#"You are never too old to set another goal or to dream a new dream." – Les Brown
+7#"The harder the conflict, the more glorious the triumph." – Thomas Paine
+4#"It is never too late to be what you might have been." – George Eliot
+4#"Our greatest glory is not in never falling, but in rising every time we fall." – Confucius
+11#"Success is not just making money. Success is happiness. Success is fulfillment; it's the ability to give." – Adam Neumann
+4#"Success is not the absence of failure; it's the persistence through failure." – Aisha Tyler
+10#"Success is achieved and maintained by those who try and keep trying." – W. Clement Stone
+8#"The only thing standing between you and your goal is the story you keep telling yourself as to why you can’t achieve it." – Jordan Belfort
+4#"Hardships often prepare ordinary people for an extraordinary destiny." – C.S. Lewis
+4#"Success consists of getting up just one more time than you fall." – Oliver Goldsmith
+4#"Success is how high you bounce when you hit bottom." – George S. Patton
+8#"Don’t be afraid to give up the good to go for the great." – John D. Rockefeller
+3#"The secret of success is to do the common thing uncommonly well." – John D. Rockefeller Jr.
+5#"Perseverance is not a long race; it is many short races one after another." – Walter Elliot
+11#"The difference between successful people and very successful people is that very successful people say no to almost everything." – Warren Buffett
+8#"The only limit to our realization of tomorrow is our doubts of today." – Franklin D. Roosevelt
+4#"Success is liking yourself, liking what you do, and liking how you do it." – Maya Angelou
+9#"The road to success and the road to failure are almost exactly the same." – Colin R. Davis
+6#"It is better to fail in originality than to succeed in imitation." – Herman Melville
+11#"Try not to become a man of success. Rather become a man of value." – Albert Einstein
+8#"Success is getting what you want, happiness is wanting what you get." – W. P. Kinsella
+3#"The difference between ordinary and extraordinary is that little extra." – Jimmy Johnson
+11#"Success is not in what you have, but who you are." – Bo Bennett
+4#"Success means having the courage, the determination, and the will to become the person you believe you were meant to be." – George A. Sheehan
+4#"Opportunities don't happen. You create them." – Chris Grosser
+5#"Success seems to be connected with action. Successful people keep moving. They make mistakes, but they don't quit." – Conrad Hilton
+9#"Do not be embarrassed by your failures, learn from them and start again." – Richard Branson
+9#"The road to success is dotted with many tempting parking spaces." – Will Rogers
+8#"I find that the harder I work, the more luck I seem to have." – Thomas Jefferson
