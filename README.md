@@ -9,6 +9,16 @@ Get Motivated - Motivational meme generator
 
 ## About <a name = "about"></a>
 
+first a quick introduction
+Hi im Shawn Neuman from San Antonio Texas in the USA
+This is my CS50 python project. at the time im writing this it is 07/24/2024
+
+my accounts are
+[text version of url](https://profile.edx.org/u/s-neuman)
+[text version of url](https://www.youtube.com/@shawnneuman10)
+[text version of url](https://github.com/shawnn10)
+please feel free to give me advise or reach out with questions.
+
 This project is meant to help quickly make motivational content. how it does this is by pulling from a folder of images and a file full of categorized quotes. There are 7 default images and 182 quotes. these quotes are divided into 11 catagories based off of the 11 types of motivations. the user is asked to answer 11 questions that help the program better understand the users motivational factors. the users answers and credentials are save in separate text documents. this means the user can come back at any time and not need to answer the questions again, tho they can if the wish to update their answers.
 
 the usage of this program is intended to be for quickly making motivational content for social media. it is also a good tool for self motivation and further understanding what motivates the user. the program supports multiple users or Profiles so that content for different people or different channels can be refined and tailored. one example would be a gym that loads pictures of their facilities and the makes different user profiles with a heavy influence of Physiological Motivation and other. upon requesting content the program would choose a random quote from Physiological Motivation or other and then lay that over their image. then they could quickly send out personalized emails with a splash of motivation.
@@ -68,7 +78,7 @@ after all the questions have been answered you can then
 "Make" your personalized motivation
 
 #### Video Demo:  <URL HERE>
-text version of url
+[text version of url](https://youtu.be/VnBPzPiFWcU)
 
 ## Usage <a name = "usage"></a>
 
